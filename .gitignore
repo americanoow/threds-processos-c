@@ -1,0 +1,8 @@
+# executáveis compilados
+output/
+parte1
+parte2
+parte3
+parte4
+*.exe
+*.o
